@@ -1,1 +1,1 @@
-# hazefinance2.github.io
+# Haze Finance App Website
